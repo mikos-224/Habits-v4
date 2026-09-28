@@ -1,1 +1,1 @@
-# Habits-v4
+# Nawyki PWA v2\nWgraj wszystkie pliki do GitHub Pages.\n
